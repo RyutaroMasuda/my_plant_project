@@ -1,0 +1,9 @@
+pyinaturalist
+requests
+opencv-python
+pyrealsense2
+torch
+torchvision
+numpy
+pandas
+scikit-learn
